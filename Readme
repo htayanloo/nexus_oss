@@ -9,6 +9,11 @@ Type    : proxy
 Remote Storage     : http://mirror.centos.org/
 
 
+NAME    : vault
+Format  : yum
+Type    : proxy
+Remote Storage     : http://vault.centos.org
+
 
 #Step -2
 

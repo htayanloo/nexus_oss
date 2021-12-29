@@ -1,7 +1,16 @@
-#CENTOS repo
+# Step -1
+
+Create repo in nexus
 
 
 NAME    : centos
 Format  : yum
 Type    : proxy
 Remote Storage     : http://mirror.centos.org/
+
+
+
+#Step -2
+
+Replace Ip address in all centos_x file repo with you server address
+

@@ -18,4 +18,6 @@ Remote Storage     : http://vault.centos.org
 #Step -2
 
 Replace Ip address in all centos_x file repo with you server address
+example  new ip address: 192.168.100.1 
 
+sed -i 's/192.168.0.96/192.168.100.1/g' *

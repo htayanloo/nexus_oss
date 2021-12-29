@@ -1,0 +1,7 @@
+#CENTOS repo
+
+
+NAME    : centos
+Format  : yum
+Type    : proxy
+Remote Storage     : http://mirror.centos.org/
